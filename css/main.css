@@ -53,11 +53,16 @@ h1, h2, h3, h4{
 	border-radius: 50%;
 	border:1px solid #555555;
 	padding:5px;
-	margin:40px 10px;
+	margin:45px 15px;
 }
 .favorites, .contacto{
 	text-align: center;
 }
 .contacto{
 	background:url(../images/tile2.png);
+	margin:20px;
+	padding:30px;
+}
+.contacto img{
+	padding:20px;
 }
