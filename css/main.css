@@ -1,7 +1,7 @@
 body{
 	color:#555555;
 	font-family: Arial, sans-serif;
-	font-size: 13px;
+	font-size: 15px;
 }
 h1, h2, h3, h4{
 	color: #a9268d;
@@ -47,6 +47,7 @@ h1, h2, h3, h4{
 }
 .about-me{
 	background:url(../images/tile1.png);
+	padding:45px 0;
 }
 .favorites img{
 	width: 200px;
@@ -57,12 +58,13 @@ h1, h2, h3, h4{
 }
 .favorites, .contacto{
 	text-align: center;
+	padding:45px 0;
 }
 .contacto{
 	background:url(../images/tile2.png);
 	margin:20px;
-	padding:30px;
+	margin-bottom:60px;
 }
 .contacto img{
-	padding:20px;
+	padding:30px;
 }
